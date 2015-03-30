@@ -9,6 +9,4 @@ class ApplicationController < ActionController::Base
   # Third comment.
   #
   # fourth comment.
-  #
-  # sixth comment.
 end
