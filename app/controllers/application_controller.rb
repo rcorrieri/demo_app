@@ -5,4 +5,8 @@ class ApplicationController < ActionController::Base
   # this is a comment
   #
   # second comment
+  #
+  # third comment.
+  #
+  # fourth comment.
 end
